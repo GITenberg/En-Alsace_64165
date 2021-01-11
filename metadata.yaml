@@ -1,5 +1,8 @@
 _repo: En-Alsace_64165
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 64165-h/images/cover.jpg
 creator:
   author:
     agent_name: Lichtenberger, André
@@ -12,6 +15,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Andr%C3%A9_Lichtenberger
     - https://en.wikipedia.org/wiki/Andr%C3%A9_Lichtenberger
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64165#En-Alsace
 gutenberg_issued: '2020-12-29'
 gutenberg_type: Text
 identifiers:
